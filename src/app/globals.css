@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.HomeBoxShado{
+    box-shadow: rgba(189, 176, 176, 0.21) 0px 3px 6px 1px;
+}

@@ -1,0 +1,192 @@
+[
+    {
+        "snData3": [
+            {
+                "title": "NBcash Wallet",
+                "content": [
+                    {
+                        "name": "Wallet Summary",
+                        "position": "0px -257px"
+                    },
+                    {
+                        "name": "Rewards",
+                        "position": "0px -285px",
+                        "fields":"New"
+                    }
+                ]
+            },
+            {
+                "title": "Residential Plans",
+                "content": [
+                    {
+                        "name": "For Owner",
+                        "position": "0px -313px"
+                    },
+                    {
+                        "name": "For Sellers",
+                        "position": "0px -341px"
+                        
+                    },
+                    {
+                        "name": "For Tenants",
+                        "position": "0px -369px"
+                        
+                    },
+                    {
+                        "name": "For Buyers",
+                        "position": "0px -509px"
+                        
+                    }
+                ]
+            },
+            {
+                "title": "Commercial Plans",
+                "content": [
+                    {
+                        "name": "For Owner",
+                        "position": "0px -425px"
+                    },
+                    {
+                        "name": "For Sellers",
+                        "position": "0px -453px"
+                        
+                    },
+                    {
+                        "name": "For Tenants",
+                        "position": "0px -481px"
+                        
+                    },
+                    {
+                        "name": "For Buyers",
+                        "position": "0px -509px"
+                        
+                    }
+                ]
+            },
+            {
+                "title": "Home Services",
+                "content": [
+                    {
+                        "name": "Packers and Movers",
+                        "position": "0px -537px"
+                    },
+                    {
+                        "name": "Painting",
+                        "position": "0px -565px",
+                        "fields":"New"
+                    },
+                    {
+                        "name": "Cleaning",
+                        "position": "0px -593px",
+                        "fields":"New"
+                    },
+                    {
+                        "name": "Interiors",
+                        "position": "0px -621px",
+                        "fields":"New"
+                    },
+                    {
+                        "name": "Furniture",
+                        "position": "0px -649px"
+                        
+                    }
+                ]
+            },
+            {
+                "title": "NoBroker Pay",
+                "content": [
+                    {
+                        "name": "Pay Your Rent",
+                        "position": "0px -677px"
+                    },
+                    {
+                        "name": "Deposit Payment",
+                        "position": "0px -705px"
+                        
+                    },
+                    {
+                        "name": "Maintenance Payment",
+                        "position": "0px -733px",
+                        "fields":"New"
+                    },
+                    {
+                        "name": "Bill Payment",
+                        "position": "0px -761px",
+                        "fields":"New"
+                    }
+                ]
+            },
+            {
+                "title": "Legal Assistance & Loan",
+                "content": [
+                    {
+                        "name": "Rental Agreement",
+                        "position": "0px -257px"
+                    },
+                    {
+                        "name": "Police Intimation",
+                        "position": "0px -257px"
+                    },
+                    {
+                        "name": "Tenant Verification",
+                        "position": "0px -257px"
+                    },
+                    {
+                        "name": "Property Legal Assistance",
+                        "position": "0px -257px"
+                    },
+                    {
+                        "name": "Home Loan",
+                        "position": "0px -257px"
+                    },
+                    {
+                        "name": "Home Deposit Loan",
+                        "position": "0px -257px"
+                    }
+                ]
+            },
+            {
+                "title": "Utilities",
+                "content": [
+                    {
+                        "name": "Know Your Rent",
+                        "position": "0px -929px"
+                    },
+                    {
+                        "name": "Create Rent Receipt",
+                        "position": "0px -957px"
+                    },
+                    {
+                        "name": "Click & Earn",
+                        "position": "0px -985px"
+                    }
+                ]
+            },
+            {
+                "title": "Help & Support",
+                "content": [
+                    {
+                        "name": "Support Topics",
+                        "position": "0px -1013px"
+                    },
+                    {
+                        "name": "Blog",
+                        "position": "0px -1041px"
+                    },
+                    {
+                        "name": "Feedback",
+                        "position": "0px -1069px"
+                    },
+                    {
+                        "name": "About Us",
+                        "position": "0px -1097px"
+                    },
+                    {
+                        "name": "Chat with us",
+                        "position": "0px -1124px"
+                    }
+                ]
+            }
+        ]
+    }
+]

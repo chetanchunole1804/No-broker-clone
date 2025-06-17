@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Post Your Property"
+    },
+    {
+        "id": 2,
+        "title": "Rental Agreement"
+    },
+    {
+        "id": 3,
+        "title": "Painting & Cleaning"
+    },
+    {
+        "id": 4,
+        "title": "Painting & Cleaning"
+    },
+    {
+        "id": 5,
+        "title": "Packers and Movers"
+    },
+    {
+        "id": 6,
+        "title": "Refer & Earn"
+    },
+    {
+        "id": 7,
+        "title": "Rent Receipts"
+    },
+    {
+        "id": 8,
+        "title": "Commercial Plans",
+        "plans": [
+            {
+                "id": 8.1,
+                "title": "Tenant Plans"
+            },
+            {
+                "id": 8.2,
+                "title": "Owner Plans"
+            },
+            {
+                "id": 8.3,
+                "title": "Buyer Plans"
+            },
+            {
+                "id": 8.4,
+                "title": "Seller Plans"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Careers"
+    },
+    {
+        "id": 10,
+        "title": "Corporate Enquiry"
+    },
+    {
+        "id": 11,
+        "title": "Blog"
+    },
+    {
+        "id": 12,
+        "title": "NoBroker Support"
+    }
+]
